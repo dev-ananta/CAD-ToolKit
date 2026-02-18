@@ -1,2 +1,2 @@
-# GearSim-MechCAD
-Parametric CAD Mechanical Assembly (Fully Simulated Gearbox)
+# CAD-ToolKit
+Versatile Tool CAD 3D Model
